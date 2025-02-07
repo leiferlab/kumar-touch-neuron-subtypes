@@ -15,4 +15,4 @@ b. Targeted illumination setup: The associated code for collecting data from tar
  - MATLAB 2019
 
 ### The dataset used in this publication is available at Figshare: [10.6084/m9.figshare.28217246](10.6084/m9.figshare.28217246)
-### Link to publication on BiorXiv: [https://doi.org/10.1101/2025.02.03.636179](https://doi.org/10.1101/2025.02.03.636179)
+### Link to publication on bioRxiv: [https://doi.org/10.1101/2025.02.03.636179](https://doi.org/10.1101/2025.02.03.636179)
