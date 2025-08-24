@@ -1,6 +1,6 @@
 ## kumar-touch-neuron-subtypes
 
-## This is the code used to collect and analyze the data presented in: Li*, Kumar*, Poon, Leifer, and Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit"
+## This is the code used to collect and analyze the data presented in: Li*, Kumar*, Poon, Leifer, and Zheng, "Functional Probing of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" (*co-first authors)
 
 ## Below are the codes to collect behavioral datasets from two different instruments: <br/>
 a. Whole worm illumination setup: The associated code for collecting data from the whole field illumination setup is in the whole_field_illumination_setup folder. This setup is used to collect the data presented in Figures 2 and 4. <br/>
@@ -14,5 +14,5 @@ b. Targeted illumination setup: The associated code for collecting data from tar
  - h5labview
  - MATLAB 2019
 
-### The dataset used in this publication is available at Figshare: [10.6084/m9.figshare.28217246](10.6084/m9.figshare.28217246)
+### The dataset used in this publication is available at Figshare: [[10.6084/m9.figshare.28217246)](https://doi.org/10.6084/m9.figshare.28217246.v3)
 ### Link to publication on bioRxiv: [https://doi.org/10.1101/2025.02.03.636179](https://doi.org/10.1101/2025.02.03.636179)
